@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yuto</string>
+    <string name="tagline">YouTube Creator &amp; Growth Studio</string>
+    <string name="upload_video">Select Video</string>
+    <string name="generate_metadata">AI Growth Boost</string>
+    <string name="thumbnail_studio">Thumbnail Studio</string>
+    <string name="seo_score">SEO Growth Score</string>
+    <string name="publish_youtube">Publish to YouTube</string>
+    <string name="channel_connection">Connected Channel</string>
+</resources>

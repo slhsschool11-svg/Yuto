@@ -1,0 +1,6 @@
+{
+  "name": "Yuto - YouTube Creator & Growth Automation",
+  "description": "All-in-one YouTube automation studio powered by Gemini AI for generating high-CTR titles, viral tags, SEO descriptions, high-standard thumbnails, video resizing, and growth publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
